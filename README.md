@@ -14,7 +14,7 @@ _When I was 13 years old I fell in love with programming and ever since then I h
 
 - 📫 How to reach me **nicolascousillas1@gmail.com**
 
-- 📄 Know about my experiences on [LinkedIn](https://linkedin.com/in/nicolás-cousillas-cadena-b00a7824a/)
+- 📄 Know about my experiences on [LinkedIn](https://linkedin.com/in/nicolascou/)
 
 
 ### Programming Languages:
