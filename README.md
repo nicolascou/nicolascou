@@ -2,7 +2,7 @@
 
 ### An ambitious Junior Full Stack Developer
 
-_When I was 13 years old I fell in love with programming and ever since then I have been developing every kind of application that comes to mind, from games to web apps._
+When I was 13 years old I fell in love with programming and ever since then I have been developing every kind of application that comes to mind, from games to web apps.
   
 - 🔭 I’m currently working on [Hotel Miranda Project](https://nicolascou.github.io/hotel-miranda-dashboard/)
 
