@@ -6,11 +6,7 @@ When I was 13 years old I fell in love with programming and ever since then I ha
   
 - 🔭 I’m currently working on [Hotel Miranda Project](https://nicolascou.github.io/hotel-miranda-dashboard/)
 
-- 🌱 I’m currently learning **jest and react testing**
-
-- 👨‍💻 All of my projects are available at [My Portfolio](here) 
-
-- 💬 Ask me about **react, redux, typescript or python**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://nicolascou.github.io/portfolio) 
 
 - 📫 How to reach me **nicolascousillas1@gmail.com**
 
