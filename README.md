@@ -31,4 +31,4 @@ When I was 13 years old I fell in love with programming and ever since then I ha
 
 <br>
 
-![nicolascou](https://github-readme-stats.vercel.app/api/top-langs?username=nicolascou&show_icons=true&locale=en) &nbsp; ![nicolascou](https://github-readme-stats.vercel.app/api?username=nicolascou&show_icons=true&locale=en)
+![nicolascou](https://github-readme-stats.vercel.app/api/top-langs?username=nicolascou&show_icons=true&locale=en) &nbsp;
