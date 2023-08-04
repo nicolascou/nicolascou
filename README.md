@@ -1,12 +1,10 @@
 # Hi 👋, I'm Nicolás Cousillas
 
-### An ambitious Junior Full Stack Developer
-
-When I was 13 years old I fell in love with programming and ever since then I have been developing every kind of application that comes to mind, from games to web apps.
+### I am a Full Stack Developer
   
-- 🔭 I’m currently working on [Hotel Miranda Project](https://nicolascou.github.io/hotel-miranda-dashboard/)
+- 🔭 I’m currently working in Trazins
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://nicolascou.github.io/portfolio) 
+- 👨‍💻 Some of my projects are available at [My Portfolio](https://nicolascou.github.io/portfolio) 
 
 - 📫 How to reach me **nicolascousillas1@gmail.com**
 
@@ -15,7 +13,7 @@ When I was 13 years old I fell in love with programming and ever since then I ha
 
 ### Programming Languages:
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;  &nbsp; [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>](https://www.typescriptlang.org/) &nbsp;  &nbsp; [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;  &nbsp; [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>](https://www.typescriptlang.org/) &nbsp;  &nbsp; [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org) &nbsp;  &nbsp; [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />]
 
 ### Web Technologies:
   
